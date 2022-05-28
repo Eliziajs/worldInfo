@@ -1,4 +1,4 @@
-# Lista dos meus repositórios publicos
+# Lista dos meus repositór
 
 FunctionMath
 TadListaDinamica
